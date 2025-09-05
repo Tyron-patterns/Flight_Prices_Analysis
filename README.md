@@ -46,6 +46,7 @@ The project is organized into three separate Jupyter Notebooks:
 
 This project was developed for **portfolio showcasing** and **learning practice**. Some tasks (especially in the feature engineering section) may not be strictly necessary for EDA but are included to demonstrate familiarity with various data-preparation techniques.
 
+The EDA section will be uploaded in the coming days as it's still a work in progress!
 ---
 
 ## 🚀 Author
