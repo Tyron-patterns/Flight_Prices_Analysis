@@ -1,7 +1,3 @@
-# Flight_Prices_Analysis
-Exploratory data analysis, data cleaning, and feature engineering on flight price dataset to extract insights and prepare for ML modeling
-
-
 # ✈️ Flight Prices Analysis
 
 This project explores and analyzes a dataset of Indian domestic flights, with a focus on understanding the factors that influence ticket prices.
