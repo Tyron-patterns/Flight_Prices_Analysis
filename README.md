@@ -1,2 +1,2 @@
 # Flight_Prices_Analysis
-Project encompassing all the steps from data cleaning to EDA of a dataset regarding flights information
+Exploratory data analysis, data cleaning, and feature engineering on flight price dataset to extract insights and prepare for ML modeling
