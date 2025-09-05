@@ -52,4 +52,4 @@ The EDA section will be uploaded in the coming days as it's still a work in prog
 ## 🚀 Author
 
 Tyron DLT  
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/tyron-patterns)
+[LinkedIn](https://www.linkedin.com/in/tyron-de-la-torre-95bb64311/) • [GitHub](https://github.com/tyron-patterns)
